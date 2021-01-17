@@ -14,13 +14,13 @@ $(window).on("load", function () {
     // to make it easier to loop around it
 
     // loop through all the times to determine if past, present, future
-    // use existing CSS to define what they are
-    for(i=9; i<= 17; i++) {
+    // use existing CSS to define what they are color coded by grey,red, green
+    for (i = 9; i <= 17; i++) {
 
         var CurrentContainer = i;
 
         // if ID of the Div matches the time then its CURRENT
-        if (currentTime == i) {
+        if (currentTime === i) {
             // set the DIV ID 
             $('#' + CurrentContainer).addClass("present");
 
