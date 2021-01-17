@@ -2,9 +2,15 @@
 
 ## A calendar application that allows users to save events for each working hour from 9am to 5pm.
 
-# Built with:
+## Built with:
 * HTML
 * CSS
-* javascript
+* Javascript
 
-[](./develop/images/workday-calendar)
+View my Deployed link: https://alexreveles.github.io/workday-scheduler/.
+
+View my Github link: https://github.com/alexreveles/workday-scheduler
+
+
+
+![] (./Develop/images/workday-calendar.png) 
