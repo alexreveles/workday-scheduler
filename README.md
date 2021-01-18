@@ -8,7 +8,7 @@
 * Javascript
 
 
-![](./Develop/images/workday-calendar.png) 
+![](./workday-schedular/images/workday-calendar.png) 
 
 
 ## View my Deployed link: https://alexreveles.github.io/workday-scheduler/
