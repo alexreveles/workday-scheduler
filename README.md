@@ -11,6 +11,6 @@
 ![](./Develop/images/workday-calendar.png) 
 
 
-## View my Deployed link: https://alexreveles.github.io/workday-scheduler/.
+## View my Deployed link: https://alexreveles.github.io/workday-scheduler/
 
 ## View my Github link: https://github.com/alexreveles/workday-scheduler

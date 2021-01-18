@@ -15,17 +15,18 @@ $(window).on("load", function () {
 
     // loop through all the times to determine if past, present, future
     // use existing CSS to define what they are color coded by grey,red, green
-    for (i = 9; i <= 17; i++) {
+    for (i = 9; i <= 18; i++) {
+
 
         var CurrentContainer = i;
-
         // if ID of the Div matches the time then its CURRENT
-        if (currentTime === i) {
+        if (currentTime == i) {
             // set the DIV ID 
             $('#' + CurrentContainer).addClass("present");
 
             // set the TEXTAREA to the right color
             $('#' + CurrentContainer).children('div').children('div').children("textarea").addClass("present");
+            
         }
 
         // if ID of the Div is greater than the time then its past
@@ -41,7 +42,6 @@ $(window).on("load", function () {
         }
 
     }
-
 
     $("button").on("click", function() {
 
